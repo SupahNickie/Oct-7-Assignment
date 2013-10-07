@@ -1,0 +1,11 @@
+nicholas@nicholas-Lenovo-G500:~/Documents/my_project$ rake
+Run options: --seed 58585
+
+# Running tests:
+
+....
+
+Finished tests in 1.112639s, 3.5951 tests/s, 8.9876 assertions/s.
+
+4 tests, 10 assertions, 0 failures, 0 errors, 0 skips
+
